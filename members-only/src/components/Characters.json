@@ -11,49 +11,49 @@
     "name": "Casca",
     "type": "Main",
     "weapon": "Sword and Shield",
-    "image": "https://static.wikia.nocookie.net/berserk/images/d/d0/BTCG_Casca_and_Puck.png/revision/latest/scale-to-width-down/600?cb=20170923104942"
+    "image": "https://images.squarespace-cdn.com/content/v1/5ace4845e17ba35c9d8eb95e/1540334468650-8N2SGO7N30QJJABSCLBD/ke17ZwdGBToddI8pDm48kMWXV3DnV2nGJqEHwR5L4aRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEekugUrwcaurqIHTl4P5xXwM3rseLFYAjKfrB9cxO7lJu3E9Ef3XsXP1C_826c-iU/casca+berserk"
   },
   {
     "id": "3",
     "name": "Griffith",
     "type": "Main",
     "weapon": "Saber",
-    "image": "https://static.wikia.nocookie.net/berserk/images/b/b0/BTCG_Griffith_Holding_Sabre.png/revision/latest/scale-to-width-down/600?cb=20170930052614"
+    "image": "https://cdn.myanimelist.net/images/characters/9/326322.jpg"
   },
   {
     "id": "4",
     "name": "Judeau",
     "type": "The Band of the Hawk",
     "weapon": "Daggers",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "image": "https://i.redd.it/ipg2vfzy11s21.png"
   },
   {
     "id": "5",
     "name": "Pippin",
     "type": "The Band of the Hawk",
     "weapon": "Club",
-    "image": "https://static.wikia.nocookie.net/berserk/images/e/e4/Pippin_Manga.jpg/revision/latest/smart/width/200/height/200?cb=20150810011043"
+    "image": "https://cdn.myanimelist.net/r/360x360/images/characters/9/68119.jpg?s=94392c5a76852e76a4286e34c8665925"
   },
   {
     "id": "6",
     "name": "Corkus",
     "type": "The Band of the Hawk",
     "weapon": "Sword",
-    "image": "https://static.wikia.nocookie.net/berserk/images/a/a9/Corkus_Manga.jpg/revision/latest/scale-to-width-down/340?cb=20150810010522"
+    "image": "https://cdn.myanimelist.net/r/360x360/images/characters/6/158163.jpg?s=0c1c3c67de11f5319b39cee7704c6bad"
   },
   {
     "id": "7",
     "name": "Rickert",
     "type": "The Band of the Hawk",
     "weapon": "Sword",
-    "image": "https://i.ytimg.com/vi/oNSKLSPzhJc/maxresdefault.jpg"
+    "image": "https://cdn.myanimelist.net/images/characters/14/214839.jpg"
   },
   {
     "id": "8",
     "name": "Puck",
     "type": "Guts' Party",
     "weapon": "Charm",
-    "image": "https://i.redd.it/u3q5x41167i11.png"
+    "image": "https://i.pinimg.com/564x/15/f4/40/15f4406834942578d178c52995c22d60.jpg"
   },
   {
     "id": "9",
@@ -67,14 +67,14 @@
     "name": "Serpico",
     "type": "Guts' Party",
     "weapon": "Sword",
-    "image": "https://static.wikia.nocookie.net/berserk/images/7/7b/Serpico_wind.jpg/revision/latest/scale-to-width-down/340?cb=20160828173038G"
+    "image": "https://i.pinimg.com/originals/53/98/0a/53980a6735fffa66b9d08f31980e2a2a.png"
   },
   {
     "id": "11",
     "name": "Isidro",
     "type": "Guts' Party",
     "weapon": "Stick",
-    "image": "https://static.wikia.nocookie.net/berserk/images/a/aa/TCG_Isidro.png/revision/latest/top-crop/width/360/height/450?cb=20171017224222"
+    "image": "https://i.redd.it/f52da6wjsday.png"
   },
   {
     "id": "12",
@@ -88,21 +88,21 @@
     "name": "Manifico de Vandimion",
     "type": "Guts' Party",
     "weapon": "Sword",
-    "image": "https://static.wikia.nocookie.net/berserk/images/5/52/Magnifico_de_Vandimion_Manga.jpg/revision/latest/scale-to-width-down/340?cb=20110507052101"
+    "image": "https://i.redd.it/rj9k0s94qxp01.png"
   },
   {
     "id": "14",
     "name": "Azan",
     "type": "Guts' Party",
     "weapon": "Staff",
-    "image": "https://static.wikia.nocookie.net/berserk/images/f/f5/Azan_Anime_AV.png/revision/latest/scale-to-width-down/340?cb=20160326212732"
+    "image": "https://cdn.myanimelist.net/images/characters/11/68278.jpg"
   },
   {
     "id": "15",
     "name": "Roderick of Schtauffen",
     "type": "Guts' Party",
     "weapon": "Sword",
-    "image": "https://static.wikia.nocookie.net/berserk/images/c/ca/Roderick_Manga.jpg/revision/latest?cb=20150809233216"
+    "image": "https://cdn.myanimelist.net/r/360x360/images/characters/11/151999.jpg?s=2acbf979cffc1b4c15ed1ef1520e70b9"
   },
   {
     "id": "16",
