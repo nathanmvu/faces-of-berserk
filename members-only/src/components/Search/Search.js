@@ -1,5 +1,4 @@
 import React from "react";
-import './Search.css';
 
 function Search({ handleInputChange }) {
   return (
@@ -9,7 +8,7 @@ function Search({ handleInputChange }) {
           type='text'
           id='searchBar'
           placeholder='Search a character'
-          onChange={e => handleInputChange(e)}
+          onChange={e => handleInputChange(e.target.value)}
         >
         </input>
       </div>

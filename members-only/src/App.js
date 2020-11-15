@@ -9,10 +9,14 @@ function App() {
   const [characterState, setCharacters] = useReducer(
     (state, action) => {
       switch (action.type) {
-        case 'change':
+        case 'search':
           return action.input;
-        case 'sort':
-          return [...state].sort((a, b) => (a.name > b.name) ? 1 : -1);
+        case 'sortName':
+          return [...state].sort((x, y) => (x.name > y.name) ? 1 : -1);
+        case 'sortType':
+          return [...state].sort((x, y) => (x.type > y.type) ? 1 : -1);
+        case 'sortWeapon':
+          return [...state].sort((x, y) => (x.weapon > y.weapon) ? 1 : -1);
         default:
           return Characters;
       }
@@ -21,12 +25,16 @@ function App() {
   const handleInputChange = (search) => {
     const searchArray = [];
     for(let i = 0; i < Characters.length; i++) {
-      if(Characters[i].name.includes(search)){
+      if(Characters[i].name.includes(search) || Characters[i].name.toLowerCase().includes(search)){
         searchArray.push(Characters[i])
       }
     }
+    setCharacters({
+      type: 'search',
+      input: searchArray
+    });
   }
-  
+
   return (
     <div className="App">
       <Header />

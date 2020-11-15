@@ -6,10 +6,12 @@ function List({ characters, setCharacters}) {
     <div className='container'>
       <table className='table'>
         <thead>
-          <th scope='col'>Image</th>
-          <th scope='col' onClick={() => setCharacters({ type: 'sort'})}>Name</th>
-          <th scope='col'>Character Type</th>
-          <th scope='col'>Weapon</th>
+          <tr>
+            <th scope='col'>Image</th>
+            <th scope='col' onClick={() => setCharacters({ type: 'sortName'})}>Name</th>
+            <th scope='col' onClick={() => setCharacters({ type: 'sortType'})}>Character Type</th>
+            <th scope='col' onClick={() => setCharacters({ type: 'sortWeapon'})}>Weapon</th>
+          </tr>
         </thead>
         <tbody>
           {characters.map(character => 
