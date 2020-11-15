@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Guts",
     "type": "Main",
-    "weapon": "Greatsword",
+    "weapon": "Dragon Slayer",
     "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
   },
   {
@@ -110,5 +110,82 @@
     "type": "Guts' Party",
     "weapon": "None",
     "image": "https://cdn.myanimelist.net/images/characters/16/81388.jpg"
+  },
+  {
+    "id": "17",
+    "name": "Void",
+    "type": "God Hand",
+    "weapon": "None",
+    "image": "https://pm1.narvii.com/6610/e70d8aee4b2ce1468320ac59028467a28576ad28_00.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Slan",
+    "type": "God Hand",
+    "weapon": "None",
+    "image": "https://cdn.myanimelist.net/images/characters/16/158175.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Ubik",
+    "type": "God Hand",
+    "weapon": "None",
+    "image": "https://i.pinimg.com/originals/18/6d/87/186d87462508dd57abdcb700a94a3950.png"
+  },
+  {
+    "id": "20",
+    "name": "Conrad",
+    "type": "God Hand",
+    "weapon": "None",
+    "image": "https://s-media-cache-ak0.pinimg.com/originals/17/1a/1e/171a1e8e104ed2fba403eeea27b18e4b.jpg"
+  },
+  {
+    "id": "21",
+    "name": "Zodd",
+    "type": "Band of the Falcon",
+    "weapon": "Greatsword",
+    "image": "https://i.redd.it/4o0piwfh2r211.png"
+  },
+  {
+    "id": "22",
+    "name": "Sonia",
+    "type": "Band of the Falcon",
+    "weapon": "None",
+    "image": "https://cdn.myanimelist.net/r/360x360/images/characters/3/153161.jpg?s=46d4ad81ecbe7a71f717cd436d3b881e"
+  },
+  {
+    "id": "23",
+    "name": "Grunbeld",
+    "type": "Band of the Falcon",
+    "weapon": "Warhammer",
+    "image": "https://cdn.myanimelist.net/images/characters/8/144639.jpg"
+  },
+  {
+    "id": "24",
+    "name": "Locus",
+    "type": "Band of the Falcon",
+    "weapon": "Lance",
+    "image": "https://cdn.myanimelist.net/images/characters/12/68951.jpg"
+  },
+  {
+    "id": "25",
+    "name": "Irvine",
+    "type": "Band of the Falcon",
+    "weapon": "Ballista",
+    "image": "https://cdn.myanimelist.net/images/characters/6/153173.jpg"
+  },
+  {
+    "id": "26",
+    "name": "Rakshas",
+    "type": "Band of the Falcon",
+    "weapon": "Spikes",
+    "image": "https://cdn.myanimelist.net/images/characters/2/101986.jpg"
+  },
+  {
+    "id": "27",
+    "name": "Skull Knight",
+    "type": "Guts' Party",
+    "weapon": "Beherit Sword",
+    "image": "https://qph.fs.quoracdn.net/main-qimg-fb90f5d158f5c011b88f7988f83b7233"
   }
 ]
