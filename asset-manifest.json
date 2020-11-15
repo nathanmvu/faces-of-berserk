@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/faces-of-berserk/static/css/main.80309d05.chunk.css",
+    "main.js": "/faces-of-berserk/static/js/main.f806d592.chunk.js",
+    "main.js.map": "/faces-of-berserk/static/js/main.f806d592.chunk.js.map",
+    "runtime-main.js": "/faces-of-berserk/static/js/runtime-main.8cefe2e0.js",
+    "runtime-main.js.map": "/faces-of-berserk/static/js/runtime-main.8cefe2e0.js.map",
+    "static/js/2.106da535.chunk.js": "/faces-of-berserk/static/js/2.106da535.chunk.js",
+    "static/js/2.106da535.chunk.js.map": "/faces-of-berserk/static/js/2.106da535.chunk.js.map",
+    "index.html": "/faces-of-berserk/index.html",
+    "static/css/main.80309d05.chunk.css.map": "/faces-of-berserk/static/css/main.80309d05.chunk.css.map",
+    "static/js/2.106da535.chunk.js.LICENSE.txt": "/faces-of-berserk/static/js/2.106da535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cefe2e0.js",
+    "static/js/2.106da535.chunk.js",
+    "static/css/main.80309d05.chunk.css",
+    "static/js/main.f806d592.chunk.js"
+  ]
+}
