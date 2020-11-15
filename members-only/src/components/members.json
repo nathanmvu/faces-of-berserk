@@ -11,90 +11,104 @@
     "name": "Casca",
     "type": "Main",
     "weapon": "Sword and Shield",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "image": "https://static.wikia.nocookie.net/berserk/images/d/d0/BTCG_Casca_and_Puck.png/revision/latest/scale-to-width-down/600?cb=20170923104942"
   },
   {
     "id": "3",
     "name": "Griffith",
     "type": "Main",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Saber",
+    "image": "https://static.wikia.nocookie.net/berserk/images/b/b0/BTCG_Griffith_Holding_Sabre.png/revision/latest/scale-to-width-down/600?cb=20170930052614"
   },
   {
     "id": "4",
     "name": "Judeau",
     "type": "The Band of the Hawk",
+    "weapon": "Daggers",
     "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
   },
   {
     "id": "5",
     "name": "Pippin",
     "type": "The Band of the Hawk",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Club",
+    "image": "https://static.wikia.nocookie.net/berserk/images/e/e4/Pippin_Manga.jpg/revision/latest/smart/width/200/height/200?cb=20150810011043"
   },
   {
     "id": "6",
     "name": "Corkus",
     "type": "The Band of the Hawk",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Sword",
+    "image": "https://static.wikia.nocookie.net/berserk/images/a/a9/Corkus_Manga.jpg/revision/latest/scale-to-width-down/340?cb=20150810010522"
   },
   {
     "id": "7",
     "name": "Rickert",
     "type": "The Band of the Hawk",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Sword",
+    "image": "https://i.ytimg.com/vi/oNSKLSPzhJc/maxresdefault.jpg"
   },
   {
     "id": "8",
     "name": "Puck",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Charm",
+    "image": "https://i.redd.it/u3q5x41167i11.png"
   },
   {
     "id": "9",
     "name": "Farnese de Vandimion",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Sword",
+    "image": "https://i.redd.it/i423ljzl6cn01.jpg"
   },
   {
     "id": "10",
     "name": "Serpico",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Sword",
+    "image": "https://static.wikia.nocookie.net/berserk/images/7/7b/Serpico_wind.jpg/revision/latest/scale-to-width-down/340?cb=20160828173038G"
   },
   {
     "id": "11",
     "name": "Isidro",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Stick",
+    "image": "https://static.wikia.nocookie.net/berserk/images/a/aa/TCG_Isidro.png/revision/latest/top-crop/width/360/height/450?cb=20171017224222"
   },
   {
     "id": "12",
     "name": "Schierke",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Magic",
+    "image": "https://i.kym-cdn.com/photos/images/original/000/915/469/7b1.png"
   },
   {
     "id": "13",
     "name": "Manifico de Vandimion",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Sword",
+    "image": "https://static.wikia.nocookie.net/berserk/images/5/52/Magnifico_de_Vandimion_Manga.jpg/revision/latest/scale-to-width-down/340?cb=20110507052101"
   },
   {
     "id": "14",
     "name": "Azan",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Staff",
+    "image": "https://static.wikia.nocookie.net/berserk/images/f/f5/Azan_Anime_AV.png/revision/latest/scale-to-width-down/340?cb=20160326212732"
   },
   {
     "id": "15",
     "name": "Roderick of Schtauffen",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "Sword",
+    "image": "https://static.wikia.nocookie.net/berserk/images/c/ca/Roderick_Manga.jpg/revision/latest?cb=20150809233216"
   },
   {
     "id": "16",
     "name": "Isma",
     "type": "Guts' Party",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG"
+    "weapon": "None",
+    "image": "https://cdn.myanimelist.net/images/characters/16/81388.jpg"
   }
 ]
