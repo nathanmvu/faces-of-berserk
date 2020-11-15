@@ -25,7 +25,10 @@ function App() {
   const handleInputChange = (search) => {
     const searchArray = [];
     for(let i = 0; i < Characters.length; i++) {
-      if(Characters[i].name.includes(search) || Characters[i].name.toLowerCase().includes(search)){
+      if(Characters[i].name.includes(search) || 
+      Characters[i].name.toLowerCase().includes(search) || 
+      Characters[i].weapon.includes(search) ||
+      Characters[i].weapon.toLowerCase().includes(search)){
         searchArray.push(Characters[i])
       }
     }

@@ -4,7 +4,7 @@ function Search({ handleInputChange }) {
   return (
     <form>
       <div className='form-group'>
-        <input 
+        <input
           type='text'
           id='searchBar'
           placeholder='Search a character'
